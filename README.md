@@ -2,4 +2,4 @@
 
 ## Here's the list of projects I've build so far:
 
-1. Animated Universe
+- Animated Universe
