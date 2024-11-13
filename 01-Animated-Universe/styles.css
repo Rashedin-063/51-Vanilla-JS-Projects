@@ -7,16 +7,12 @@
   margin: 0;
 }
 
-a {
-  text-decoration: none;
-}
 
 html,
 body {
   height: 100%;
   color: white;
 }
-
 
 .main-nav {
   position: absolute;
@@ -44,10 +40,17 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  
-
-
-  
+ 
+}
+.main-page-content h1{
+   
+  font-size: 1.5rem;
+  color: yellowgreen;
+}
+.main-page-content h2{
+   margin-top: 1rem;
+  font-size: 1.2rem;
+  color: wheat;
 }
 
 
@@ -103,3 +106,4 @@ iframe {
   margin-left: -800px;
   z-index: 100000;
 };
+
