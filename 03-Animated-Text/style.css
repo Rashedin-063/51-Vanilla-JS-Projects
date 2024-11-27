@@ -17,8 +17,8 @@ body {
 
 .animated-text{
  --bg-size: 400%;
-  --color-one: hsl(15 90% 55%);
-  --color-two: hsl(40 95% 55%);
+  --color-one: hsl(40, 90%, 49%);
+  --color-two: hsl(47 95% 55%);
   font-family: sans-serif;
   font-size: clamp(2rem, 3rem, 4rem);
   background: linear-gradient(
