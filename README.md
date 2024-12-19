@@ -6,3 +6,4 @@
 2. Progress Steps
 3. Animated Text
 4. Expanding Cards
+5. Rotating Nav Animation
