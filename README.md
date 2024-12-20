@@ -7,3 +7,4 @@
 3. Animated Text
 4. Expanding Cards
 5. Rotating Nav Animation
+6. Hidden Search
